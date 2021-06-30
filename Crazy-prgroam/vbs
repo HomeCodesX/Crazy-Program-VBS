@@ -1,0 +1,2 @@
+X=MsgBox("Error Bat file, Please try again",5+16,"Error Bat")
+X=MsgBox("Bat file cant run code", 16,"Error")
